@@ -1,0 +1,1 @@
+to run this open treminal and write python main.py
